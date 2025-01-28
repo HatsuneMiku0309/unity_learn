@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 6da85468cf42c26478ed0d0dad09ea2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swords_woman_body 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0138597737b127449485cf657cdd905
+      internalID: 642214448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: acc49242ecdeec64d90c5fd107e69045
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      swords_woman_body 1_0: 642214448
+      "\uAC80\uC0AC_\uC5EC_0": -1871406093
+      "\uAC80\uC0AC_\uC5EC_1": -1559439305
+      "\uAC80\uC0AC_\uC5EC_10": 1693624962
+      "\uAC80\uC0AC_\uC5EC_100": -1246252675
+      "\uAC80\uC0AC_\uC5EC_101": 2068600913
+      "\uAC80\uC0AC_\uC5EC_102": 1069703099
+      "\uAC80\uC0AC_\uC5EC_103": -2007338591
+      "\uAC80\uC0AC_\uC5EC_104": 889599604
+      "\uAC80\uC0AC_\uC5EC_105": 736004741
+      "\uAC80\uC0AC_\uC5EC_106": -2091951734
+      "\uAC80\uC0AC_\uC5EC_107": -1804010232
+      "\uAC80\uC0AC_\uC5EC_108": -1782910535
+      "\uAC80\uC0AC_\uC5EC_109": -1922176985
+      "\uAC80\uC0AC_\uC5EC_11": -1337858915
+      "\uAC80\uC0AC_\uC5EC_110": -1056700606
+      "\uAC80\uC0AC_\uC5EC_111": 551665596
+      "\uAC80\uC0AC_\uC5EC_112": 220315904
+      "\uAC80\uC0AC_\uC5EC_113": 1790565544
+      "\uAC80\uC0AC_\uC5EC_114": 1632577602
+      "\uAC80\uC0AC_\uC5EC_115": 1069770769
+      "\uAC80\uC0AC_\uC5EC_116": 352600375
+      "\uAC80\uC0AC_\uC5EC_117": -1886717669
+      "\uAC80\uC0AC_\uC5EC_118": 312887319
+      "\uAC80\uC0AC_\uC5EC_119": -446682566
+      "\uAC80\uC0AC_\uC5EC_12": 1629835385
+      "\uAC80\uC0AC_\uC5EC_120": -184671422
+      "\uAC80\uC0AC_\uC5EC_121": 1371254916
+      "\uAC80\uC0AC_\uC5EC_122": 2090245451
+      "\uAC80\uC0AC_\uC5EC_123": 1251585348
+      "\uAC80\uC0AC_\uC5EC_124": -2121370426
+      "\uAC80\uC0AC_\uC5EC_125": -998167840
+      "\uAC80\uC0AC_\uC5EC_126": -423616343
+      "\uAC80\uC0AC_\uC5EC_127": 1472840221
+      "\uAC80\uC0AC_\uC5EC_128": -572957640
+      "\uAC80\uC0AC_\uC5EC_129": 1433191586
+      "\uAC80\uC0AC_\uC5EC_13": 1493772325
+      "\uAC80\uC0AC_\uC5EC_130": -1494433967
+      "\uAC80\uC0AC_\uC5EC_131": -215044595
+      "\uAC80\uC0AC_\uC5EC_132": 1777864671
+      "\uAC80\uC0AC_\uC5EC_133": -379953646
+      "\uAC80\uC0AC_\uC5EC_134": -110937567
+      "\uAC80\uC0AC_\uC5EC_135": -376210807
+      "\uAC80\uC0AC_\uC5EC_136": 1643744738
+      "\uAC80\uC0AC_\uC5EC_137": -1816937431
+      "\uAC80\uC0AC_\uC5EC_138": 1337548480
+      "\uAC80\uC0AC_\uC5EC_139": -1104937901
+      "\uAC80\uC0AC_\uC5EC_14": -1133072192
+      "\uAC80\uC0AC_\uC5EC_140": 477070739
+      "\uAC80\uC0AC_\uC5EC_141": 1354008550
+      "\uAC80\uC0AC_\uC5EC_142": -1658410713
+      "\uAC80\uC0AC_\uC5EC_143": -2081921187
+      "\uAC80\uC0AC_\uC5EC_144": 1969354182
+      "\uAC80\uC0AC_\uC5EC_145": 1281806875
+      "\uAC80\uC0AC_\uC5EC_146": 1065347861
+      "\uAC80\uC0AC_\uC5EC_147": -622748541
+      "\uAC80\uC0AC_\uC5EC_148": 1833475530
+      "\uAC80\uC0AC_\uC5EC_149": 777549525
+      "\uAC80\uC0AC_\uC5EC_15": -1946705856
+      "\uAC80\uC0AC_\uC5EC_150": -960486756
+      "\uAC80\uC0AC_\uC5EC_151": 1949122381
+      "\uAC80\uC0AC_\uC5EC_152": -1835298316
+      "\uAC80\uC0AC_\uC5EC_153": 472781833
+      "\uAC80\uC0AC_\uC5EC_16": -1252376639
+      "\uAC80\uC0AC_\uC5EC_17": 1588281769
+      "\uAC80\uC0AC_\uC5EC_18": -108943362
+      "\uAC80\uC0AC_\uC5EC_19": -561581708
+      "\uAC80\uC0AC_\uC5EC_2": 351031623
+      "\uAC80\uC0AC_\uC5EC_20": -722539857
+      "\uAC80\uC0AC_\uC5EC_21": 211765816
+      "\uAC80\uC0AC_\uC5EC_22": -163210519
+      "\uAC80\uC0AC_\uC5EC_23": -51289909
+      "\uAC80\uC0AC_\uC5EC_24": 2047478667
+      "\uAC80\uC0AC_\uC5EC_25": 1907660692
+      "\uAC80\uC0AC_\uC5EC_26": 404141441
+      "\uAC80\uC0AC_\uC5EC_27": -1595429098
+      "\uAC80\uC0AC_\uC5EC_28": -1880365149
+      "\uAC80\uC0AC_\uC5EC_29": -108495890
+      "\uAC80\uC0AC_\uC5EC_3": -807239832
+      "\uAC80\uC0AC_\uC5EC_30": 1189138270
+      "\uAC80\uC0AC_\uC5EC_31": -384749769
+      "\uAC80\uC0AC_\uC5EC_32": -989194446
+      "\uAC80\uC0AC_\uC5EC_33": -1318254350
+      "\uAC80\uC0AC_\uC5EC_34": -144231482
+      "\uAC80\uC0AC_\uC5EC_35": -434178447
+      "\uAC80\uC0AC_\uC5EC_36": -139156720
+      "\uAC80\uC0AC_\uC5EC_37": 350035888
+      "\uAC80\uC0AC_\uC5EC_38": 1797070576
+      "\uAC80\uC0AC_\uC5EC_39": -1512453992
+      "\uAC80\uC0AC_\uC5EC_4": 1330149485
+      "\uAC80\uC0AC_\uC5EC_40": -3417730
+      "\uAC80\uC0AC_\uC5EC_41": -2000612259
+      "\uAC80\uC0AC_\uC5EC_42": -1420946584
+      "\uAC80\uC0AC_\uC5EC_43": 698871125
+      "\uAC80\uC0AC_\uC5EC_44": 1652889505
+      "\uAC80\uC0AC_\uC5EC_45": -1689393810
+      "\uAC80\uC0AC_\uC5EC_46": -1006197439
+      "\uAC80\uC0AC_\uC5EC_47": -715215827
+      "\uAC80\uC0AC_\uC5EC_48": -1083676478
+      "\uAC80\uC0AC_\uC5EC_49": -967080685
+      "\uAC80\uC0AC_\uC5EC_5": 1279628271
+      "\uAC80\uC0AC_\uC5EC_50": 1473024061
+      "\uAC80\uC0AC_\uC5EC_51": -683952577
+      "\uAC80\uC0AC_\uC5EC_52": 763899383
+      "\uAC80\uC0AC_\uC5EC_53": -1694042052
+      "\uAC80\uC0AC_\uC5EC_54": -1253544629
+      "\uAC80\uC0AC_\uC5EC_55": -1706101358
+      "\uAC80\uC0AC_\uC5EC_56": -1194159720
+      "\uAC80\uC0AC_\uC5EC_57": 1379721534
+      "\uAC80\uC0AC_\uC5EC_58": 15057060
+      "\uAC80\uC0AC_\uC5EC_59": -1282876739
+      "\uAC80\uC0AC_\uC5EC_6": 797522884
+      "\uAC80\uC0AC_\uC5EC_60": -1786840362
+      "\uAC80\uC0AC_\uC5EC_61": -517147166
+      "\uAC80\uC0AC_\uC5EC_62": 1312976345
+      "\uAC80\uC0AC_\uC5EC_63": 1470380583
+      "\uAC80\uC0AC_\uC5EC_64": -1562704238
+      "\uAC80\uC0AC_\uC5EC_65": -24568069
+      "\uAC80\uC0AC_\uC5EC_66": 94072282
+      "\uAC80\uC0AC_\uC5EC_67": -961050803
+      "\uAC80\uC0AC_\uC5EC_68": -736535984
+      "\uAC80\uC0AC_\uC5EC_69": 782441411
+      "\uAC80\uC0AC_\uC5EC_7": 1976173418
+      "\uAC80\uC0AC_\uC5EC_70": -44071426
+      "\uAC80\uC0AC_\uC5EC_71": 574613005
+      "\uAC80\uC0AC_\uC5EC_72": 2004458153
+      "\uAC80\uC0AC_\uC5EC_73": -641922189
+      "\uAC80\uC0AC_\uC5EC_74": 1248674206
+      "\uAC80\uC0AC_\uC5EC_75": -1990127284
+      "\uAC80\uC0AC_\uC5EC_76": -590423668
+      "\uAC80\uC0AC_\uC5EC_77": 1425679765
+      "\uAC80\uC0AC_\uC5EC_78": -2018369533
+      "\uAC80\uC0AC_\uC5EC_79": 11240426
+      "\uAC80\uC0AC_\uC5EC_8": 979674153
+      "\uAC80\uC0AC_\uC5EC_80": 1290399834
+      "\uAC80\uC0AC_\uC5EC_81": -438725590
+      "\uAC80\uC0AC_\uC5EC_82": 51143552
+      "\uAC80\uC0AC_\uC5EC_83": -669940231
+      "\uAC80\uC0AC_\uC5EC_84": -978405875
+      "\uAC80\uC0AC_\uC5EC_85": 1864220182
+      "\uAC80\uC0AC_\uC5EC_86": 1277472788
+      "\uAC80\uC0AC_\uC5EC_87": 1928924542
+      "\uAC80\uC0AC_\uC5EC_88": 949077257
+      "\uAC80\uC0AC_\uC5EC_89": 2034692387
+      "\uAC80\uC0AC_\uC5EC_9": 112763023
+      "\uAC80\uC0AC_\uC5EC_90": 1865459890
+      "\uAC80\uC0AC_\uC5EC_91": 1520246664
+      "\uAC80\uC0AC_\uC5EC_92": -1569174611
+      "\uAC80\uC0AC_\uC5EC_93": 1595141779
+      "\uAC80\uC0AC_\uC5EC_94": 1821269726
+      "\uAC80\uC0AC_\uC5EC_95": -1015619576
+      "\uAC80\uC0AC_\uC5EC_96": -387990434
+      "\uAC80\uC0AC_\uC5EC_97": -1666264964
+      "\uAC80\uC0AC_\uC5EC_98": -2027586911
+      "\uAC80\uC0AC_\uC5EC_99": 507737938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
